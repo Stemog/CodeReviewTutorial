@@ -12,6 +12,7 @@ namespace CleanCoding
         *  You could assign half of your team to be coders trying to fix this code
         *  The other half could be reviewers, looking through your code when you submit a pull request. 
         * */
+        /* Hej Anders dette er en ændring*/
         static void Main(string[] args)
         {
             Console.WriteLine("Hello and welcome to the calculator!");
